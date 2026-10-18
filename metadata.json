@@ -1,0 +1,6 @@
+{
+  "name": "Bloomify - Artisanal Florist & Botanical Gifting",
+  "description": "Editorial botanical florist delivering fresh hand-tied bouquets, exotic blooms, and curated floral arrangements across Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
